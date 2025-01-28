@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "schoolwebprofile.jpg"
   name             : "Christian Barajas"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Resume: resume.pdf 
   bio              : "I'm a 24-year-old Computer Science major with a passion technology and its potential to shape the future. I'm driven to explore the space industry and artificial intelligence"
   location         : "Houston"
   employer         : "University of Houston"
