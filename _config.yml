@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Christian Barajas"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Christian Barajas"
+description              : &description "Student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Christian Barajas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "I'm a 24-year-old Computer Science major with a passion for cutting-edge technology and its potential to shape the future. I'm driven to explore opportunities in the space industry and artificial intelligence, combining my technical expertise with creativity to solve complex problems."
+  location         : "Houston"
+  employer         : "University of Houston"
+  uri              :  "cs.uh.edu"
+  email            : "christianbarajas000@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
