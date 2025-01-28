@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
+  avatar           : "profile.png"
   name             : "Christian Barajas"
   pronouns         : 
   bio              : "I'm a 24-year-old Computer Science major with a passion technology and its potential to shape the future. I'm driven to explore the space industry and artificial intelligence"
