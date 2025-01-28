@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Christian Barajas"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a 24-year-old Computer Science major with a passion for cutting-edge technology and its potential to shape the future. I'm driven to explore opportunities in the space industry and artificial intelligence, combining my technical expertise with creativity to solve complex problems."
+  bio              : "I'm a 24-year-old Computer Science major with a passion technology and its potential to shape the future. I'm driven to explore the space industry and artificial intelligence"
   location         : "Houston"
   employer         : "University of Houston"
-  uri              :  "cs.uh.edu"
+  uri              :  "https://www.uh.edu/nsm/computer-science/"
   email            : "christianbarajas000@gmail.com" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/feed/?trk=onboarding-landing"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
