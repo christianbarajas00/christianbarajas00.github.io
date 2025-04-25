@@ -33,3 +33,10 @@ TeamMooseJaw UMS is a university document management system developed as part of
           allowfullscreen>
   </iframe>
 </div>
+
+---
+
+### GitHub Repository
+
+You can view the full source code and team contributions on GitHub:  
+👉 [https://github.com/MooseJawTeam/TeamMooseJaw](https://github.com/MooseJawTeam/TeamMooseJaw)
