@@ -18,7 +18,7 @@ TeamMooseJaw UMS is a university document management system developed as part of
 ### Technologies Used
 
 - **Backend:** Django  
-- **Authentication:** Microsoft Entra ID  
+- **Authentication:** Microsoft Entra  
 - **PDF Generation:** LaTeX  
 - **Deployment & Docs:** GitHub Pages
 
@@ -39,4 +39,4 @@ TeamMooseJaw UMS is a university document management system developed as part of
 ### GitHub Repository
 
 You can view the full source code and team contributions on GitHub:  
-👉 [https://github.com/MooseJawTeam/TeamMooseJaw](https://github.com/MooseJawTeam/TeamMooseJaw)
+[https://github.com/MooseJawTeam/TeamMooseJaw](https://github.com/MooseJawTeam/TeamMooseJaw)
