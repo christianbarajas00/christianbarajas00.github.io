@@ -1,28 +1,20 @@
 ---
 title: "TeamMooseJaw UMS"
-excerpt: "Implementation of a document management system.<br/><img src='/images/umsthumbnail.png'>"
+excerpt: "A full-stack document management system with secure digital signatures and role-based workflows.<br/><img src='/images/umsthumbnail.png'>"
 collection: portfolio
+layout: portfolio
+permalink: /portfolio/teammoosejaw-ums/
 ---
 
+In this project, my team and I developed **TeamMooseJaw UMS**, a full-stack university document management system as part of our capstone at the University of Houston. The system allows faculty and students to securely submit, track, and digitally sign academic documents using Microsoft Entra ID for authentication.
 
-TeamMooseJaw UMS is a university document management system developed as part of a collaborative capstone project. It streamlines the submission, approval, and digital signing of academic forms.
+We implemented role-based dashboards for reviewers and submitters, dynamic PDF generation using LaTeX templates, email notifications, and full revision/version history.
 
-### Key Features
+The entire project was built using **Django**, **PostgreSQL**, **Microsoft Entra ID**, and deployed with documentation via **Jekyll and GitHub Pages**.
 
-- Secure login using Microsoft Entra ID
-- Role-based dashboard for submitting and approving forms
-- Dynamic PDF generation using LaTeX templates
-- Document status tracking
-- Version control and audit trail for document activity
+You can find the GitHub repository for the project [here](https://github.com/MooseJawTeam/TeamMooseJaw).
 
-### Technologies Used
-
-- **Backend:** Django  
-- **Authentication:** Microsoft Entra ID  
-- **PDF Generation:** LaTeX  
-- **Deployment & Docs:** GitHub Pages
-
----
+I also created a live demo walkthrough of the system, which you can watch below:
 
 ### Demo Video
 
