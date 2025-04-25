@@ -13,7 +13,6 @@ TeamMooseJaw UMS is a university document management system developed as part of
 - Role-based dashboard for submitting and approving forms
 - Dynamic PDF generation using LaTeX templates
 - Document status tracking
-- Version control and audit trail for document activity
 
 ### Technologies Used
 
